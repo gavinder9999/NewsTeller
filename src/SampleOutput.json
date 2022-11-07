@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "German anger as Russia shuts international broadcaster Deutsche Welle",
+    "description": "Germany and the EU condemn a decision to shut down Deutsche Welle's bureau in Moscow.",
+    "url": "http://www.bbc.co.uk/news/world-europe-60257581",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A53F/production/_123130324_dw.jpg",
+    "publishedAt": "2022-02-04T17:52:23.6581077Z",
+    "content": "Image source, Getty Images\r\nImage caption, Deutsche Welle's Moscow office was told it would be shut at 09:00 on Friday\r\nGermany and the EU have condemned Russia's decision to shut down the Moscow bur… [+2476 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Meta moves to tackle creepy behaviour in virtual reality",
+    "description": "Women describe their experiences but what can firms behind virtual-reality platforms do about it?",
+    "url": "http://www.bbc.co.uk/news/technology-60247542",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1554D/production/_123137378_metaverse2.png",
+    "publishedAt": "2022-02-04T17:07:21.5964858Z",
+    "content": "By Jane WakefieldTechnology reporter \r\nImage source, Getty Images\r\nImage caption, Trips to virtual worlds are not always pleasant for women trying them out for the first time\r\nMeta has announced a ne… [+6690 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "No 10 denies Boris Johnson has lost control after raft of resignations",
+    "description": "After a chaotic wave of resignations, another MP says he has no confidence in Boris Johnson.",
+    "url": "http://www.bbc.co.uk/news/uk-politics-60261455",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F977/production/_123136836_073487409-1.jpg",
+    "publishedAt": "2022-02-04T16:22:22.1118976Z",
+    "content": "Image source, No 10 Downing Street\r\nImage caption, Boris Johnson told staff on Friday that \"change is good\"\r\nBoris Johnson still has control of Downing Street after a string of close aides quit their… [+5546 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Karnataka hijab row deepens as students petition court",
+    "description": "A video showing college gates being shut on a group of Muslim students has led to outrage.",
+    "url": "http://www.bbc.co.uk/news/world-asia-india-60256262",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FE6D/production/_123133156_hijab1.jpg",
+    "publishedAt": "2022-02-04T15:52:23.1434294Z",
+    "content": "Image source, Umesh Marpally\r\nImage caption, A video showing hijab-clad students outside a college gate in Karnataka had gone viral\r\nA high court in the southern Indian state of Karnataka is set to h… [+2962 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC Sport",
+    "title": "2022 Winter Olympics officially begin",
+    "description": "The 24th edition of the Winter Olympics is officially under way after the cauldron was lit in a restrained opening ceremony in Beijing.",
+    "url": "http://www.bbc.co.uk/sport/winter-olympics/60242407",
+    "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/8523/production/_123138043_index.jpg",
+    "publishedAt": "2022-02-04T15:37:28.4547517Z",
+    "content": "<table><tr><th>24th Winter Olympic Games</th></tr>\r\n<tr><td>Hosts: Beijing, China Dates: 4-20 February</td></tr><tr><td>Coverage: Watch live on BBC TV, BBC iPlayer, BBC Red Button and online; listen … [+4378 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Shackleton's Endurance: The impossible search for the greatest shipwreck",
+    "description": "The latest bid to find Antarctic explorer Ernest Shackleton's lost polar yacht is set to get under way.",
+    "url": "http://www.bbc.co.uk/news/science-environment-60239105",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/119E1/production/_123116127_index.jpg",
+    "publishedAt": "2022-02-04T12:07:20.5962901Z",
+    "content": "By Jonathan AmosBBC Science Correspondent\r\nImage caption, Endurance set sail from Grytviken, South Georgia, on 5 December 1914 (Oil painting by George Cummings)\r\nIt is one of the most unreachable shi… [+9350 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "China joins Russia in condemning Nato expansion",
+    "description": "Moscow and Beijing release a statement showcasing agreement on a wide range of geopolitical issues.",
+    "url": "http://www.bbc.co.uk/news/world-asia-60257080",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/72E5/production/_123131492_putingetty.jpg",
+    "publishedAt": "2022-02-04T11:07:17.7047465Z",
+    "content": "Image source, Getty Images\r\nImage caption, The meeting between Vladimir Putin and Xi Jinping was the first face-to-face talks they have had since June 2019\r\nChina has joined Russia in condemning Nato… [+1996 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Covid: South Africa makes its own version of Moderna vaccine",
+    "description": "Scientists there say it could help increase very low vaccination rates across Africa.",
+    "url": "http://www.bbc.co.uk/news/health-60258088",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B04D/production/_123133154_gettyimages-1237243276.jpg",
+    "publishedAt": "2022-02-04T10:37:23.2054308Z",
+    "content": "Image caption, Africa currently has the lowest uptake of Covid vaccines in the world\r\nScientists in South Africa have made a copy of the Moderna Covid vaccine, a move which they say could help boost … [+2921 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Billionaire Bezos' superyacht sparks bridge row",
+    "description": "Rotterdam's Koningshaven Bridge is to be dismantled to allow the ship to leave a shipyard.",
+    "url": "http://www.bbc.co.uk/news/world-europe-60256966",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D41/production/_123131358_p0bm5l0z.jpg",
+    "publishedAt": "2022-02-04T09:37:17.8929767Z",
+    "content": "There are plans to take apart, and then reassemble, a historic bridge in Rotterdam to allow a superyacht built for billionaire Jeff Bezos to leave a shipyard.\r\nThe luxury yacht, linked to the world's… [+262 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "'All-American girl' turned jihadist denied bail",
+    "description": "Allison Fluke-Ekren, who allegedly led an Islamic State squadron, was once a doe-eyed Kansas schoolgirl.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-60254827",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15C7C/production/_123121298_microsoftteams-image-4.png",
+    "publishedAt": "2022-02-04T00:52:21.2420606Z",
+    "content": "By Tara McKelvey &amp; Boer DengBBC News, Washington\r\nImage source, Alexandria Sheriff's Office\r\nImage caption, Allison Fluke-Ekren faces up to 20 years in prison\r\nA woman from Kansas once known as a… [+3365 chars]"
+    }
+    ]
+    }
