@@ -25,7 +25,7 @@ const App =()=> {
       />
        <Navbar/>
        <Switch>
-          <Route exact path="/"> <News setProgress={setProgress} apiKey={apiKey} key="general"></News></Route>
+         
           <Route exact path="/business"><News setProgress={setProgress} apiKey={apiKey}  key="business" pageSize ={12} country="in" category ="business"/> </Route>
           <Route exact path="/entertainment"><News setProgress={setProgress} apiKey={apiKey}  key="entertainment" pageSize ={12} country="in" category ="entertainment"/> </Route>
           <Route exact path="/general"><News setProgress={setProgress} apiKey={apiKey}  key="general" pageSize ={12} country="in" category ="general"/> </Route>
